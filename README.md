@@ -81,7 +81,7 @@ All datasets are combined and organized in the [`Dataset`](./Dataset) folder.
 - [`Presentation.pdf`](./Presentation.pdf): Project presentation slides.
 - [`Poster.pdf`](./Poster.pdf): Visual poster summarizing key insights.
 - [`Report.pdf`](./Report.pdf): Full technical project report.
-
+- [`Logbook`](./Logbook): Project work log (logbook of progress and meetings).
 ---
 
 ## 👥 Team
