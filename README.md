@@ -35,7 +35,7 @@ The goal is to generate actionable insights for enhancing tourism strategies ali
 - TripAdvisor: Reviews and hotel ratings.
 - Booking.com: Accommodation reviews and trends.
 
-All datasets are combined and organized in the [`Datasets`](./Datasets/) folder.
+All datasets are combined and organized in the [`Datasets`](./Datasets) folder.
 
 ---
 
@@ -77,7 +77,7 @@ All datasets are combined and organized in the [`Datasets`](./Datasets/) folder.
 ## 📂 Project Files
 
 - [`Analysis.ipynb`](./Analysis.ipynb): Jupyter Notebook with EDA, modeling, and visualizations.
-- [`Datasets/`](./Datasets/): Folder containing all primary and secondary datasets.
+- [`Datasets`](./Datasets): Folder containing all primary and secondary datasets.
 - [`Presentation.pdf`](./Presentation.pdf): Project presentation slides.
 - [`Poster.pdf`](./Poster.pdf): Visual poster summarizing key insights.
 - [`Report.pdf`](./Report.pdf): Full technical project report.
