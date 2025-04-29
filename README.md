@@ -89,9 +89,9 @@ All datasets are combined and organized in the [`Datasets`](./Datasets/) folder.
 This project was developed by:
 
 - Najla Almazyad  
-- Joud Al-Kharashi  
-- Ghala Al-Muslim  
-- Ryouf Al-Anzi  
+- Jood AlKhrashi  
+- Ghala Musallam
+- Reuof Alanazi  
 
 Under the supervision of **Dr. Reem Fahad Alqifari**,  
 **King Saud University**.
