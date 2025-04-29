@@ -76,10 +76,10 @@ All datasets are combined and organized in the [`Datasets`](./Datasets/) folder.
 
 ## 📂 Project Files
 
-- [`Tourism_Saudi_Analysis.ipynb`](./Tourism_Saudi_Analysis.ipynb): Jupyter Notebook with EDA, modeling, and visualizations.
+- [`Analysis.ipynb`](./Analysis.ipynb): Jupyter Notebook with EDA, modeling, and visualizations.
 - [`Datasets/`](./Datasets/): Folder containing all primary and secondary datasets.
-- [`Tourism_Presentation.pdf`](./Tourism_Presentation.pdf): Project presentation slides.
-- [`Tourism_Poster.pdf`](./Tourism_Poster.pdf): Visual poster summarizing key insights.
+- [`Presentation.pdf`](./Presentation.pdf): Project presentation slides.
+- [`Poster.pdf`](./Poster.pdf): Visual poster summarizing key insights.
 - [`Report.pdf`](./Report.pdf): Full technical project report.
 
 ---
